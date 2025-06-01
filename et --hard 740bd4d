@@ -1,0 +1,9 @@
+[33mdc5f469[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33mdc5f469[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to origin/main
+[33me165ce4[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{2}: checkout: moving from 740bd4d0f60064beed64ba449d4f4ad2a994b803 to main
+[33m740bd4d[m HEAD@{3}: commit: first commit
+[33mdc5f469[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{4}: pull origin main --rebase (start): checkout dc5f46906dde770588862583d637f438c7202c7b
+[33me165ce4[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{5}: Branch: renamed refs/heads/master to refs/heads/main
+[33me165ce4[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{7}: rebase (abort): updating HEAD
+[33mdc5f469[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: pull origin main --rebase (start): checkout dc5f46906dde770588862583d637f438c7202c7b
+[33me165ce4[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{9}: commit (initial): first commit
